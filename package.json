@@ -11,9 +11,10 @@
   "author": "Thomas Cutting",
   "license": "BSD-2-Clause",
   "dependencies": {
+    "colors": "~1.1.2",
+    "dotenv": "^2.0.0",
     "express": "~4.14.0",
     "ioredis": "~2.2.0",
-    "socket.io": "~1.4.8",
-    "colors": "~1.1.2"
+    "socket.io": "~1.4.8"
   }
 }
