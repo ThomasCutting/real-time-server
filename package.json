@@ -1,10 +1,10 @@
 {
-  "name": "ThrameRealtimeSystem",
+  "name": "somekindOfRealtimeSystem",
   "version": "0.0.1",
-  "description": "The thrame realtime system.  This handles all messages, notifications, and live events that are broadcasted back to the core web application.",
+  "description": "Handles all messages, notifications, and live events that are broadcasted back to the core web application.",
   "main": "index.js",
   "scripts": {
-    "start": "echo \"Starting Thrame Realtime System...\" && node index.js",
+    "start": "echo \"Starting Realtime System...\" && node index.js",
     "rebuild": "npm install && echo \"Exiting now.\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,8 +1,3 @@
-/*
-	Thrame Realtime Server.
-	V-Alpha?
-*/
-
 // for our environment, etc.
 require('dotenv').config();
 

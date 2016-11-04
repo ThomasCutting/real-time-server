@@ -1,5 +1,5 @@
 /*
-	Thrame Application Container.
+	Application Container.
 	-----------------------------
 	Realtime functionality, and logging are included, here.
 */
